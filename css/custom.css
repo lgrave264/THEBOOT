@@ -1,0 +1,14 @@
+.recent{
+    float: left;
+    margin-bottom: 1550px;
+}
+
+.BIO{
+    background-color: #212529;
+    width: 450px;
+}
+
+.friend{
+    width: 65px;
+    height: 65px;
+}
