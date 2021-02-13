@@ -1,10 +1,10 @@
 .recent{
-    float: left;
-    margin-bottom: 1550px;
+    width: 100%;
 }
 
 .ads{
-
+    height: 600px;
+    width: 450px;
 }
 
 .BIO{
@@ -16,3 +16,27 @@
     width: 65px;
     height: 65px;
 }
+
+.art{
+    height: 300px;
+    width: 600px;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+}
+
+.bold{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    border: lightblue solid 2px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+  }
